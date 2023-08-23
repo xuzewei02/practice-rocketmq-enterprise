@@ -1,2 +1,2 @@
-# practice-rocketmq-enterprise
-rocketmq 二次封装验证
+# 基础使用
+> https://gitee.com/tianxincoder/practice-rocketmq-springboot
